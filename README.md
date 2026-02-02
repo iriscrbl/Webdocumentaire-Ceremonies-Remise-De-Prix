@@ -2,8 +2,6 @@
 
 > **Awards : behind the scenes** - Un webdocumentaire sur les coulisses des cérémonies de remise de prix
 
-[![Voir le site](https://img.shields.io/badge/Voir_le_site-Wix-0C6EFC?style=for-the-badge)](https://phuongng31270.wixsite.com/sae2)
-
 ## 📖 À propos du projet
 
 **Awards: Behind the Scene** est un webdocumentaire interactif qui explore les coulisses des cérémonies de remise de prix. Ce projet invite les utilisateurs à découvrir ce qui se passe en dehors des feux de la rampe, au-delà du simple moment de gloire sur scène.
