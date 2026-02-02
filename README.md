@@ -1,6 +1,6 @@
-# Awards: Behind the Scene 🏆
+# Webdocummentaire sur les cérémonies de remise de prix 🏆
 
-> **Au-delà du Trophée** - Un webdocumentaire sur les coulisses des cérémonies de remise de prix
+> **Awards : behind the scenes** - Un webdocumentaire sur les coulisses des cérémonies de remise de prix
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-Wix-0C6EFC?style=for-the-badge)](https://phuongng31270.wixsite.com/sae2)
 
