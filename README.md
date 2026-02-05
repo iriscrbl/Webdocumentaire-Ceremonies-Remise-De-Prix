@@ -1,14 +1,14 @@
-# Webdocummentaire sur les cérémonies de remise de prix 🏆
+# Webdocummentaire sur les cérémonies de remise de prix 
 
 > **Awards : behind the scenes** - Un webdocumentaire sur les coulisses des cérémonies de remise de prix
 
-## 📖 À propos du projet
+## À propos du projet
 
 **Awards: Behind the Scene** est un webdocumentaire interactif qui explore les coulisses des cérémonies de remise de prix. Ce projet invite les utilisateurs à découvrir ce qui se passe en dehors des feux de la rampe, au-delà du simple moment de gloire sur scène.
 
 Ce projet a été réalisé dans le cadre du **BUT Informatique en 1ère année**.
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 - Concevoir et développer un webdocumentaire interactif
 - Travailler en équipe sur un projet multimédia
@@ -16,7 +16,7 @@ Ce projet a été réalisé dans le cadre du **BUT Informatique en 1ère année*
 - Réaliser un reportage sur un sujet précis 
 - Gérer un projet de A à Z (conception, réalisation, déploiement)
 
-## 👥 Équipe
+## Équipe
 
 Projet réalisé en collaboration par :
 
@@ -25,12 +25,12 @@ Projet réalisé en collaboration par :
 - **Aneesa AHMAD-FAISAL**
 - **Dulguun MUNKH-ERDENE**
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Wix** - Plateforme de création de site web
 - **Capcut** - Montage vidéo du reportage
 
-## 🚀 Accéder au webdocumentaire
+## Accéder au webdocumentaire
 
 Le webdocumentaire est accessible en ligne à l'adresse suivante :
 
@@ -38,12 +38,11 @@ Le webdocumentaire est accessible en ligne à l'adresse suivante :
 
 Cliquez sur **START** pour commencer l'expérience.
 
-## 📅 Contexte académique
+## Contexte académique
 
 - **Formation** : BUT Informatique
-- **Année** : 2e année
-- **Projet** : SAE 2
-- **Date de réalisation** : [Année à compléter]
+- **Année** : 1e année
+- **Date de réalisation** : 2025
 
 ---
 
